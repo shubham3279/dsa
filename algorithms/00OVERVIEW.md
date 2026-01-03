@@ -2,6 +2,18 @@
 
 ## DEFINITION
 
+***Algorithm is a sequence of instructions aimed at solving a problem (i.e., mapping all possible inputs to all possible ouputs).***
+
+
+## A GOOD ALGORITHM
+
+* Sequence of instructions should form a set, i.e., finite number of non-repeated instructions.
+
+* Algorithm should take finite time and space to solve the problem.
+
+* Algorithm must generate output (at leat one output mapped to input).
+
+* 
 
 ## ALGORITHMIC EFFICIENCY
 
